@@ -1,1 +1,0 @@
-var  hojeVaiChover = "Tempo nublado"
