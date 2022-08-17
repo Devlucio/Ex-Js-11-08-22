@@ -15,7 +15,7 @@ var var1= 5 > 1, var2= 2000000 < 3000000000, var3= "Banana" == "Banana", var4= "
 // Exercício 1.3
 
 const meuCachorro = {
-    neme :"Jacaré",
+    nome :"Jacaré",
     patas : 4,
     calda : 1,
     principalAmigo : "Sou eu!" 
