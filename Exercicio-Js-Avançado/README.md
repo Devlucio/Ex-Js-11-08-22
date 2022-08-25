@@ -56,12 +56,12 @@
     > Para adicionar:
     > 
     > 1. `push()`: adiciona o item no final do a*rray*;
-    > 2. `shift()`: adiciona o item no início do *Array*;
+    > 2. `unshift()`: adiciona o item no início do *Array*;
     
     > Para remover:
     > 
     > 1. `pop()`: remove o último item do *Array*;
-    > 2. `unshift()`: remove o primeiro item do *Array*;
+    > 2. `shift()`: remove o primeiro item do *Array*;
     
     Com isso, vamos praticar um pouco mais? Considerando o *Array* criado abaixo, utilize-o para: 
     
